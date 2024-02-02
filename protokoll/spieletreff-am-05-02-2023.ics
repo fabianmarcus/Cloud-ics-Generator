@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Michael Angstadt//biweekly 0.6.6//EN
+BEGIN:VEVENT
+UID:03b49de7-a160-4cbe-92cc-0c32c5735831
+DTSTAMP:20230118T092457Z
+SUMMARY;LANGUAGE=de:Spieletreff am 05.02.2023
+DESCRIPTION:https://community.spontacts.com/community/spiele/appointments/L
+ GxKTGgEd6W\n\nWir treffen uns zum Spielen am 05.02.2023 um 15.30 Uhr in Bo
+ nn-Duisdorf!
+URL:https://community.spontacts.com/community/spiele/appointments/LGxKTGgEd
+ 6W
+CREATED:20230118T074300Z
+LOCATION:Bonn-Duisdorf
+GEO:50.737431;7.098207
+DTSTART;TZID=/Europe/Berlin:20230205T153000
+DTEND;TZID=/Europe/Berlin:20230205T190000
+END:VEVENT
+END:VCALENDAR
